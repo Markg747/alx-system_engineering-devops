@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((powf(BREATH,LOVE)))
+echo $((BREATH**LOVE))
